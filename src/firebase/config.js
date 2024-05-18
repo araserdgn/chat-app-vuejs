@@ -20,4 +20,4 @@ const projectAuth = firebase.auth()
 const projectFirestore = firebase.firestore()
 const timestamp = firebase.firestore.FieldValue.serverTimestamp;
 
-export {projectFirestore,projectAuth, timestamp}
+export {projectFirestore,projectAuth, timestamp} 
