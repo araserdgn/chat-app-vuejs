@@ -36,6 +36,8 @@ export default {
 };
 </script>
 
-<style>
-    
+<style >
+    input {
+        color: black;
+    }
 </style>
